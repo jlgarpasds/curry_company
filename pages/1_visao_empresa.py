@@ -12,7 +12,7 @@ import streamlit as st
 #from streamlit_folium import folium_static #desatualizado
 from streamlit_folium import st_folium  
 from PIL import Image # Libraria para manipulação de imagenes
-from matplotlib import pyplot as plt 
+#from matplotlib import pyplot as plt 
 import datetime
 import re
 
